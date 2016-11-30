@@ -28,4 +28,4 @@ npm run build
 For a more detailed list of the commands available refer to the boilerplate docs at <https://github.com/mxstbr/react-boilerplate>
 
 ## Acknowledgements
-Developed with ❤️  by Nicola Bertelloni
+Developed with ❤️  by *Nicola Bertelloni*

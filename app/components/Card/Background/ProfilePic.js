@@ -31,7 +31,7 @@ let styles = {
   },
   img: {
     display: 'block',
-    postiion: 'relative',
+    postiion: 'relative', 
     top: '-140px',
     margin: 'auto',
     verticalAlign: 'baseline',
